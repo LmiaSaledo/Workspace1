@@ -1,10 +1,10 @@
-# Git y Markdown
+ # Git y Markdown
 
-## Indice 
-*  ¿Qué es Git?
+ ## Indice 
+* ¿Qué es Git?
 * ¿Caracteristicas de Git?
-*  ¿El funcionamiento de Git?
-* Terminos tecnicos que se utilizan en Git
+ * ¿El funcionamiento de Git?
+ * Terminos tecnicos que se utilizan en Git
 #
 * ¿Qué es Markdown?
  * Conceptos basicos de Markdown.
